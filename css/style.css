@@ -157,3 +157,14 @@ ul{
 .bold{
     font-weight: bold;
 }
+
+/* FOOTER */
+footer{
+    height: 100PX;
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 17px;
+}
