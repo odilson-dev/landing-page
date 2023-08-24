@@ -70,6 +70,7 @@ ul{
     font-weight: bold;
     color: #1f2937;
     font-size: 36px;
+    padding-top: 30px;
 }
 
 .box-container{
@@ -90,4 +91,28 @@ ul{
     width: 175px;
     color: #777;
     text-align: center;
+}
+
+/* SECOND SECTION */
+
+#second-section{
+    background-color: #e5e7eb;
+    height: 400px;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text-content{
+    width: 60%;
+}
+.text-content :nth-child(1){
+    font-size: 31px;
+    font-style: italic;
+
+}
+.text-content :nth-child(2){
+    text-align: right;
+    font-weight: bold;
+    font-size: 24px;
 }
